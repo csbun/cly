@@ -1,0 +1,19 @@
+{
+  "name": "cly",
+  "version": "0.0.0",
+  "description": "silly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:csbun/cly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/csbun/cly/issues"
+  },
+  "homepage": "https://github.com/csbun/cly"
+}
